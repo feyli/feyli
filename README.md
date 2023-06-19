@@ -9,8 +9,8 @@
 🦭 Might start learning Kotlin and C  
 🖤 IntelliJ IDEA is the absolute best editor out there
 
-🛠️ [My personal page](https://feyli.github.io) (there's not much for now)  
-🧮 [My super-duper-amazing EcoleDirecte term average calculator](https://feyli.github.io/ecoledirecte-moyenne)
+🛠️ [My personal page](https://feyli.studio) (there's not much for now)  
+🧮 [My super-duper-amazing EcoleDirecte term average calculator](https://edmoyenne.feyli.studio)
 
 ***
 
