@@ -3,7 +3,7 @@
 
 ***
 
-📌 Trying new things with Java via a Spigot plugin  
+📌 Love playing with APIs  
 📌 Developing a Discord bot using discord.js  
 📌 Maintaining a few websites (find them below)  
 🦭 Might start learning Kotlin and C  
