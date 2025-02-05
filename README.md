@@ -9,7 +9,7 @@
 🦭 Might start learning Kotlin and C  
 🖤 IntelliJ IDEA is the absolute best editor out there
 
-🛠️ [My portfolio](https://feyli.github.io) (there's not much for now)  
+🛠️ [My portfolio](https://feyli.github.io) 
 
 ***
 
